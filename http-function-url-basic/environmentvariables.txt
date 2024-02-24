@@ -1,0 +1,12 @@
+Environment Variables
+
+To list your environment variables here for quick reference, use the keyboard shortcut (For macOS, press 'Command-Shift-E' for Windows 'Ctrl-Shift-E') or choose Tools, Show Environment Variables.
+
+Environment variables remain encrypted when listed in the console code editor. If you enabled encryption helpers for encryption in transit, then those settings remain unchanged. For more information, see https://docs.aws.amazon.com/lambda/latest/dg/configuration-envvars.html#configuration-envvars-encryption.
+
+This file is read-only and is only available on the Lambda console. This file is not included when you download the function's .zip file archive and you can't add environment variables by uploading this file. To add or edit environment variables, choose Configuration, then choose Environment variables.
+
+List of environment variables
+
+No environment variables are configured for the function.
+
